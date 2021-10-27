@@ -25,6 +25,12 @@
             <version>1.21</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.openjdk.jmh</groupId>
+            <artifactId>jmh-samples</artifactId>
+            <version>1.21</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/org.openjdk.jmh/jmh-generator-annprocess -->
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
