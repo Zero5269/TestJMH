@@ -32,7 +32,6 @@ hs_err_pid*
 out
 gen
 classes
-target
 META-INF
 .kotlin_module
 .puml
